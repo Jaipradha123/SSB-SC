@@ -52,10 +52,10 @@ Model Waveform
 <img width="706" height="167" alt="image" src="https://github.com/user-attachments/assets/bff0d8fd-d679-444e-af37-0b34585853c1" />
 
 Program
-Ac=12; 
-fc=2500; 
-Am=9; 
-fm=250; 
+Ac=17.2; 
+fc=3030 
+Am=8.6; 
+fm=340; 
 fs=25000; 
 t=0:1/fs:2/fm; 
 Wm=2*3.14*fm; 
