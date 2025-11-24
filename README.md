@@ -52,6 +52,7 @@ Model Waveform
 <img width="706" height="167" alt="image" src="https://github.com/user-attachments/assets/bff0d8fd-d679-444e-af37-0b34585853c1" />
 
 Program
+```
 Ac=17.2; 
 fc=3030 
 Am=8.6; 
@@ -78,7 +79,7 @@ Eusb=Edsbsc2-Edsbsc1;
 subplot(2,2,4); 
 title('Usb'); 
 plot(t,Eusb);
-
+```
 OUTPUT WAVEFORM
 <img width="1772" height="872" alt="Screenshot 2025-09-24 200355" src="https://github.com/user-attachments/assets/9f0a6abd-0fac-4f3a-9237-d7d2ccf644bc" />
 
